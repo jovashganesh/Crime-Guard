@@ -1,0 +1,15 @@
+{
+  "name": "CrimeGuard",
+  "private": false,
+  "dependencies": {},
+  "version": "1.0.0",
+  "description": "Software Engineering Project",
+  "main": "index.js",
+  "repository": "https://github.com/lp00668/CrimeGuard.git",
+  "author": "Lp00668",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.37.0",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
